@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name":"Days till",
+    "version":"1",
+    "description": "Simple days count extension",
+
+    "browser_action": {
+        "default_popup": "index.html"
+        
+    },
+    "icons":{
+        "16":"Countdown.png",
+        "48":"Countdown.png",
+        "128":"Countdown.png"
+
+    },
+
+    "permissions":[
+        "activeTab"
+    ]
+    
+}
