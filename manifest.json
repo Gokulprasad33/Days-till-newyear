@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name":"Days till",
     "version":"1",
     "description": "Simple days count extension",
